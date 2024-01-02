@@ -1,0 +1,10 @@
+login---> post /login  
+logout---> post    /:username/logout
+register---> post /register
+createForm--->   /:username/create
+getForm answers--> get  /:username/:FormName
+acessForm ----> /:FormName/:username/accessed
+
+
+
+
